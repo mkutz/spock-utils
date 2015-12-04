@@ -8,8 +8,6 @@ Some little tools I found useful for working with the [Spock Framework](http://s
 Usage
 -----
 
-For a detailed view on how to use this please have a look into the [demonstation folder](https://github.com/mkutz/spock-utils/tree/master/demonstration) of this repository.
-
 Add this as a test dependency to your project.
 
 For instance in your pom.xml:
